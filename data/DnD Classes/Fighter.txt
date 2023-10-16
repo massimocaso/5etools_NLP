@@ -1,0 +1,41 @@
+Class - Fighter
+
+Level 1 - Fighting Style: You adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Great Weapon Fighting, Protection, Two-Weapon Fighting. You can't take the same Fighting Style option more than once, even if you get to choose again.; Second Wind: You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+Level 2 - Action Surge: Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+
+Level 3 - Martial Archetype: At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+
+Level 4 - Ability Score Improvement: When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 5 - Extra Attack: Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+
+Level 6 - Ability Score Improvement: When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 7 - Martial Archetype Feature: At 7th level, you gain a feature granted by your Martial Archetype.
+
+Level 8 - Ability Score Improvement: When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 9 - Indomitable: Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+
+Leevel 10 - Martial Archetype Feature: At 10th level, you gain a feature granted by your Martial Archetype.
+
+Level 11 - Extra Attack (2): At 11th level, you can attack three times whenever you take the Attack action on your turn.
+
+Level 12 - Ability Score Improvement: When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 13 - Indomitable (two uses): At 13th level, you can use Indomitable twice between long rests.
+
+Level 14 - Ability Score Improvement: When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 15 - Martial Archetype Feature: At 15th level, you gain a feature granted by your Martial Archetype.
+
+Level 16 - Ability Score Improvement: When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 17 - Action Surge (two uses): At 17th level, you can use Action Surge twice before a rest, but only once on the same turn.; Indomitable (three uses): At 17th level, you can use Indomitable three times between long rests.
+
+Level 18 - Martial Archetype Feature: At 18th level, you gain a feature granted by your Martial Archetype.
+
+Level 19 - Ability Score Improvement: When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a feat.
+
+Level 20 - Extra Attack (3): At 20th level, you can attack four times whenever you take the Attack action on your turn.

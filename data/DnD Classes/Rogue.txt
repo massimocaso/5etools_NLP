@@ -1,0 +1,41 @@
+Class - Rogue
+
+Level 1 - Expertise: At 1st level, you can select two of your skill proficiencies or one skill proficiency and your proficiency with thieves' tools. For any ability check that utilizes these chosen proficiencies, your proficiency bonus is doubled. When you reach 6th level, you can extend this benefit to two additional proficiencies, be they skills or proficiency with thieves' tools.; Sneak Attack: At 1st level, you've mastered the art of striking subtly and exploiting your foe's distractions. Once per turn, when you hit a creature with an attack roll that has advantage, you can inflict an additional 1d6 damage. Your attack must be made using a finesse or ranged weapon. You can forego the need for advantage if another enemy of your target is within 5 feet, not incapacitated, and you don't have disadvantage on the attack roll. As you progress in this class, the extra damage you deal increases, as detailed in the Sneak Attack column of the Rogue table.; Thieves' Cant: During your rogue training, you learned Thieves' Cant, a covert blend of dialect, jargon, and codes that allow you to embed hidden messages within seemingly ordinary conversations. Only those familiar with Thieves' Cant can comprehend these messages, although it takes four times longer to convey them compared to plain speech. Additionally, you grasp a set of secret signs and symbols that serve to transmit brief, straightforward messages, such as marking danger, designating thieves' guild territory, indicating the presence of loot, or identifying whether the inhabitants of an area are easy targets or potential allies for fugitive thieves.
+
+Level 2 - Cunning Action: Commencing at 2nd level, your quick thinking and agility grant you the ability to take a bonus action during each of your turns in combat. This bonus action can be employed exclusively for executing the Dash, Disengage, or Hide actions.
+
+Level 3 - Roguish Archetype: Upon reaching 3rd level, you choose an archetype that defines your rogue abilities. Your chosen archetype endows you with unique features at 3rd, 9th, 13th, and 17th level. (Note: Subclass-specific details are not provided here and should be consulted in the Player's Handbook or related source.)
+
+Level 4 - Ability Score Improvement: At 4th level, you can enhance one ability score of your choice by 2 points, or you can increase two ability scores by 1 point each. As is standard, this enhancement cannot raise an ability score beyond 20. If your Dungeon Master permits the use of feats, you have the option to select a feat instead.
+
+Level 5 - Uncanny Dodge: Starting at 5th level, when you can see an attacker land a hit on you with an attack, you can employ your reaction to reduce the attack's damage by half.
+
+Level 6 - Expertise: Upon reaching 6th level, you can select two more proficiencies, whether they pertain to skills or thieves' tools, and enjoy the benefits of Expertise.
+
+Level 7 - Evasion: At 7th level, you possess the agility to evade specific area effects, such as a red dragon's fiery breath or an ice storm spell. When you confront an effect that allows a Dexterity saving throw to mitigate damage, you take no damage upon a successful save and only half damage if you fail.
+
+Level 8 - Ability Score Improvement: When you attain 8th level, you have the option to augment one ability score of your choosing by 2 points, or you can increase two ability scores by 1 point each. This augmentation adheres to the usual limit of not exceeding 20 for an ability score. If your Dungeon Master sanctions the use of feats, you may instead opt for a feat.
+
+Level 9 - Roguish Archetype Feature: At 9th level, you gain a distinctive feature as dictated by your chosen Roguish Archetype. (Note: Subclass-specific details should be referenced from the Player's Handbook or related source.)
+
+Level 10 - Ability Score Improvement: Upon reaching 10th level, you can augment one ability score of your preference by 2 points, or you can increase two ability scores by 1 point each, within the customary constraints of a maximum score of 20. Alternatively, if your Dungeon Master permits feats, you may select a feat instead.
+
+Level 11 - Reliable Talent: By 11th level, your mastery of chosen skills nears perfection. When making an ability check that allows you to add your proficiency bonus, any d20 roll of 9 or lower can be treated as a 10.
+
+Level 12 - Ability Score Improvement: At 12th level, you have the opportunity to enhance one ability score of your choice by 2 points, or you can raise two ability scores by 1 point each, adhering to the standard limit of not surpassing 20. In cases where your Dungeon Master allows feats, you can opt for a feat instead.
+
+Level 13 - Roguish Archetype Feature: Upon reaching 13th level, you acquire a unique feature bestowed by your chosen Roguish Archetype. (Note: Specific details for each subclass should be consulted from the Player's Handbook or related source.)
+
+Level 14 - Blindsense: Starting at 14th level, your heightened sensory perception allows you to discern the presence of concealed or invisible creatures within 10 feet of you, provided you can hear them.
+
+Level 15 - Slippery Mind: By the time you attain 15th level, your mental fortitude has grown significantly. You gain proficiency in Wisdom saving throws.
+
+Level 16 - Ability Score Improvement: Upon reaching 16th level, you have the option to augment one ability score of your preference by 2 points, or you can increase two ability scores by 1 point each, within the customary constraints of a maximum score of 20. If your Dungeon Master allows feats, you may choose a feat instead.
+
+Level 17 - Roguish Archetype Feature: At 17th level, you gain a specialized feature granted by your selected Roguish Archetype. (Note: Refer to the Player's Handbook or a relevant source for specific information pertaining to each subclass.)
+
+Level 18 - Elusive: Commencing at 18th level, your evasive prowess is so advanced that attackers rarely gain an advantage against you. No attack roll has advantage against you unless you are incapacitated.
+
+Level 19 - Ability Score Improvement: When you reach 19th level, you can enhance one ability score of your choice by 2 points, or you can increase two ability scores by 1 point each. This enhancement follows the standard limit of not exceeding 20 for an ability score. Alternatively, if your Dungeon Master sanctions the use of feats, you may select a feat instead.
+
+Level 20 - Stroke of Luck: At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
