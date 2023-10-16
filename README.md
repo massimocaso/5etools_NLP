@@ -1,59 +1,17 @@
 # Deep_learning_exam
 
+## Nella cartella DnD Classes ci sono i file.txt che sono fatti :
 
-## ABOUT OUR DATASET
+### 1 - Nei file delle classi sono elencati i livelli che vanno dall' 1 all 20 
 
+### Esempio della Classe fighter:
 
-** Info **
+##### Level 2 - Action Surge: Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-Check for newest version here:
-  http://www.manythings.org/anki/
-Date of this file:
-  2023-07-30
+### 2 - file spells.txt
 
-This data is from the sentences_detailed.csv file from tatoeba.org.
-http://tatoeba.org/files/downloads/sentences_detailed.csv
+#### In questo file abbiamo scritto la maggior parte delle magie del gioco D&D con i loro effetti e classi che possono usarle.
 
-** Terms of Use **
+# Librerie da installare per il funzionamento del programma
 
-See the terms of use.
-These files have been released under the same license as the
-source.
-
-http://tatoeba.org/eng/terms_of_use
-http://creativecommons.org/licenses/by/2.0
-
-Attribution: www.manythings.org/anki and tatoeba.org
-
-** Warnings **
-
-The data from the Tatoeba Project contains errors.
-
-To lower the number of errors you are likely to see, only
-sentences by native speakers and proofread sentences have
-been included.
-
-For the non-English language, I made these (possibly wrong)
-assumptions.
-Assumption 1: Sentences written by native speakers can be
-trusted.
-Assumption 2: Contributors to the Tatoeba Project are honest
-about what their native language is.
-
-For English, I used the sentences that I have proofread
-and thought were OK.
-Of course, I may have missed a few errors.
-
-** Downloading Anki **
-
-See http://ankisrs.net/
-
-** Importing into Anki **
-
-Information is at http://ankisrs.net/docs/manual.html#importing
-
-Of particular interest may be about "duplicates" at http://ankisrs.net/docs/manual.html#duplicates-and-updating.
-You can choose:
-
-1. not to allow duplicates (alternate translations) as cards.
-2. allow duplicates (alternate translations) as cards.
+### haystack(pip install farm-haystack[inference), transformers(pip install transformers)
