@@ -1,0 +1,41 @@
+Class - Ranger
+
+Level 1 - Favored Enemy: Starting at 1st level, you've honed your skills in the study, tracking, and interaction with a particular type of enemy. Choose one favored enemy from this list: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two humanoid races (such as gnolls and orcs) as your favored enemies. Your expertise grants you several advantages: - You have an advantage on Wisdom (Survival) checks when tracking your favored enemies. - Intelligence checks to recall information about your favored enemies also benefit from your advantage. - Upon gaining this feature, you learn one language spoken by your favored enemies, if they communicate in a language at all. As you progress in levels, you'll expand your knowledge and adapt to the creatures you encounter on your adventures, choosing additional favored enemies and languages at 6th and 14th level. ; Natural Explorer: At 1st level, you've developed a deep understanding of a specific natural environment, allowing you to navigate and survive within it with great proficiency. Select one favored terrain from these options: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. This expertise provides the following benefits when traveling for an hour or more within your favored terrain: - Your group moves unhindered through difficult terrain. - You cannot become lost except through magical means. - Even while engaging in other activities like foraging, navigation, or tracking, you remain vigilant to potential dangers. - When traveling alone, you can move stealthily at a normal pace. - When foraging, you find twice as much food as usual. - While tracking other creatures, you can determine their exact number, sizes, and the time they passed through the area. Your connection with nature strengthens as you progress, allowing you to choose additional favored terrain types at 6th and 10th level.
+
+Level 2 - Fighting Style: At 2nd level, you specialize in a particular combat style, granting you unique advantages.; Spellcasting: Upon reaching 2nd level, you acquire the ability to harness natural magic, akin to a druid. Refer to Chapter 10 for general spellcasting rules and Chapter 11 for the ranger spell list. - Spell Slots: Consult the Ranger table to determine your available spell slots for casting ranger spells. You must expend a spell slot of the same level or higher to cast a spell. After a long rest, all expended spell slots are restored. - Spells Known of 1st Level and Higher: At 2nd level, you know two 1st-level spells chosen from the ranger spell list. Your knowledge of ranger spells expands as you level up, adding new spells that correspond to your available spell slots. - Spellcasting Ability: Wisdom serves as your spellcasting ability for ranger spells, as it reflects your connection to nature. Use your Wisdom for spells referencing your spellcasting ability, setting the saving throw DC for ranger spells you cast, and attack rolls. Spell save DC = 8 + proficiency bonus + Wisdom modifier Spell attack modifier = proficiency bonus + Wisdom modifier
+
+Level 3 - Ranger Archetype: When you attain 3rd level, select an archetype from the available options. Your choice grants you unique features at 3rd, 7th, 11th, and 15th level. Refer to your chosen archetype for details. ; Primeval Awareness: Starting at 3rd level, you can use your action and expend a ranger spell slot to sharpen your awareness within a specific radius. For a duration equal to the spell slot's level, you can detect the presence of the following creature types within 1 mile (or up to 6 miles within your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. Note that this feature doesn't reveal their precise location or numbers.
+
+Level 4 - Ability Score Improvement: Upon reaching 4th level, you can raise one ability score of your choice by 2 or two ability scores by 1. This increase cannot exceed 20. Alternatively, if your Dungeon Master permits the use of feats, you may opt for a feat instead.
+
+Level 5 - Extra Attack: Beginning at 5th level, you can make two attacks when taking the Attack action on your turn instead of just one.
+
+Level 6 - Favored Enemy and Natural Explorer Improvements: At 6th level, your mastery expands: - You gain an additional favored terrain. - You select one more favored enemy and the associated language. This choice should reflect the kinds of adversaries you've encountered in your adventures.
+
+Level 7 - Ranger Archetype Feature: At 7th level, your chosen Ranger Archetype grants you a unique feature. Refer to your archetype for specific details.
+
+Level 8 - Ability Score Improvement: Upon reaching 8th level, you have the option to increase one ability score of your choice by 2 or two ability scores by 1. The maximum limit of 20 still applies. Alternatively, if your DM allows feats, you may select one. ; Land's Stride: Beginning at 8th level, nonmagical difficult terrain no longer impedes your movement, and you can traverse nonmagical plants without being slowed or harmed by thorns, spines, or similar hazards. Additionally, you gain advantage on saving throws against plants created or manipulated by magic to obstruct movement, such as those created by the entangle spell.
+
+Level 9 - None.
+
+Level 10 - Hide in Plain Sight: At 10th level, you can dedicate 1 minute to crafting camouflage for yourself, utilizing natural materials like mud, dirt, plants, soot, and other elements available. Once camouflaged, you can attempt to hide by pressing yourself against a solid surface at least as tall and wide as you are, such as a tree or wall. You gain a +10 bonus to Dexterity (Stealth) checks while stationary and not taking actions. To regain this benefit after moving or acting, you must reapply the camouflage.
+
+Level 11 - Natural Explorer Improvement: Your connection with nature deepens, providing you an additional favored terrain. ; Ranger Archetype Feature: At 11th level, your selected Ranger Archetype grants you a new feature. Refer to your archetype for the specific details.
+
+Level 12 - Ability Score Improvement: When you attain 12th level, you have the option to increase one ability score of your choice by 2 or two ability scores by 1, with the 20 cap still in place. Alternatively, if your DM permits feats, you may choose one.
+
+Level 13 - None.
+
+Level 14 - Vanish: Starting at 14th level, you can use the Hide action as a bonus action on your turn. Furthermore, you can't be tracked through nonmagical means unless you choose to leave a trail. ; Favored Enemy Improvement: At 14th level, you can choose one more favored enemy and its associated language, reflecting the adversaries you've encountered in your adventures.
+
+Level 15 - Ranger Archetype Feature: At 15th level, your chosen Ranger Archetype grants you a unique feature. Consult your archetype for specific details.
+
+Level 16 - Ability Score Improvement: Upon reaching 16th level, you have the option to increase one ability score of your choice by 2 or two ability scores by 1, with the 20 limit still applying. Alternatively, if your DM allows feats, you may select one.
+
+Level 17 - None.
+
+Level 18 - Feral Senses: At 18th level, you acquire preternatural senses that assist you in combat against unseen foes. When attacking a creature you can't see, your inability to see no longer imposes disadvantage on your attack rolls against it. You are also aware of the presence of any invisible creature within 30 feet of you, provided they are not hidden from you, and you aren't blinded or deafened.
+
+Level 19 - Ability Score Improvement: When you reach 19th level, you can increase one ability score of your choice by 2 or two ability scores by 1, with the maximum limit of 20. Alternatively, if your DM permits feats, you may choose one.
+
+Level 20 - Foe Slayer: At 20th level, you become a peerless hunter of your favored enemies. Once during your turn, you can add your Wisdom modifier to either your attack roll or damage roll when attacking one of your favored enemies. You can choose to use this feature before or after making the roll, but it must occur before any roll effects are applied.
