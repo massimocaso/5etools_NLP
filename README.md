@@ -1,18 +1,24 @@
-# Deep_learning_exam
+### 5e Tools NLP (Q&A)
 
-## Nella cartella DnD Classes ci sono i file.txt che sono fatti :
+Il progetto si concentra sull'utilizzo del Natural Language Processing (NLP) per analizzare le descrizioni delle classi di Dungeons and Dragons (D&D) presenti in file specifici. Implementiamo un sistema di Question and Answering (Q&A) che consente agli utenti di porre domande sulle informazioni delle classi e ricevere risposte accurate. Inoltre, introduciamo anche la traduzione automatica dall'inglese all'italiano. Il processo coinvolge l'impiego di modelli di recupero e di lettura, insieme a tecniche di embedding per migliorare la comprensione del contesto e fornire risposte più precise.
 
-*   Nei file delle classi sono elencati i livelli che vanno dall' 1 all 20
+## Struttura del Progetto
 
-Esempio della Classe fighter:
+Il progetto è suddiviso in diverse fasi chiave:
 
-* Level 2 - Action Surge: Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+1. **Creazione del Document Store**: Creazione del Document Store in memoria per archiviare e gestire i documenti relativi alle classi di D&D.
+2. **Retrieval delle Informazioni**: Abbiamo implementato un sistema di retrieval delle informazioni utilizzando Dense Passage Retriever per recuperare le informazioni rilevanti.
+3. **Embedding dei Documenti**: Calcolo degli embeddings per i documenti per migliorare la comprensione del contesto.
+4. **Question and Answering (Q&A)**: Implementazione del sistema di Q&A utilizzando FARMReader e ExtractiveQAPipeline per consentire agli utenti di porre domande sulle informazioni delle classi di D&D.
+5. **Traduzione Automatica**: Abbiamo introdotto la traduzione automatica dall'inglese all'italiano utilizzando il modello MBart.
 
-#### File spells.txt
+## Librerie Necessarie
 
-* In questo file abbiamo scritto la maggior parte delle magie del gioco D&D con i loro effetti e classi che possono usarle.
+Per eseguire correttamente il nostro progetto, assicurati di avere installate le seguenti librerie Python:
 
-# Librerie da installare per il funzionamento del programma
+- **Transformers**: Questa libreria è essenziale per l'utilizzo dei modelli NLP pre-trained, come BERT, RoBERTa e MBart.
+- **Haystack**: Haystack è una libreria Python per il recupero e l'elaborazione di testi. È utilizzata per creare il Document Store e implementare il sistema di Q&A.
+- **PyTorch (torch)**: PyTorch è un framework di deep learning ampiamente utilizzato. Molte librerie NLP, tra cui Transformers, dipendono da PyTorch.
+- **FARM (farms)**: Questa libreria è utilizzata insieme a Haystack per l'implementazione di un sistema di Question and Answering.
 
-* haystack | pip install farm-haystack[inference],
-* transformers(pip install transformers)
+Puoi installare queste librerie utilizzando il comando `pip install`
